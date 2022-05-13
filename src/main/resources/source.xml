@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drinks>
+    <drink>
+        <type>whisky</type>
+        <brand>Jameson</brand>
+        <percentage>40</percentage>
+        <age>12</age>
+        <origin>Ireland</origin>
+        <manufacturer>Irish Distillers</manufacturer>
+    </drink>
+    <drink>
+        <type>whisky</type>
+        <brand>Jack Daniels</brand>
+        <percentage>40</percentage>
+        <age>12</age>
+        <origin>Tennessee</origin>
+        <manufacturer>Jack Daniels Whiskey Distillery</manufacturer>
+    </drink>
+    <drink>
+        <type>whisky</type>
+        <brand>Chivas Regal</brand>
+        <percentage>40</percentage>
+        <age>18</age>
+        <origin>Scotland</origin>
+        <manufacturer>Chivas Brother</manufacturer>
+    </drink>
+    <drink>
+        <type>whisky</type>
+        <brand>Johnnie Walker</brand>
+        <percentage>40</percentage>
+        <age>100</age>
+        <origin>Scotland</origin>
+        <manufacturer>Johnnie Walker Whisky</manufacturer>
+    </drink>
+    <drink>
+        <type>vodka</type>
+        <brand>finlandia</brand>
+        <percentage>40</percentage>
+        <age>10</age>
+        <origin>Finland</origin>
+        <manufacturer>UNKNOWN</manufacturer>
+    </drink>
+</drinks>
